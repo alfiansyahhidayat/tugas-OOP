@@ -1,4 +1,4 @@
-Java Development Kit 19, versi Java standar non-LTS (Long-Term Support), sedang diproduksi hari ini. 
+Java Development Kit 19, versi Java standar non-LTS (Long-Term Support).
 Beberapa fitur ditargetkan untuk rilis, termasuk paralelisme terstruktur, pola perekaman, pratinjau fungsi asing dan API penyimpanan,
 dan dukungan untuk arsitektur set instruksi (ISA) Linux/RISC-V open-source. Semua fitur kecuali kemampuan Linux/RISC-V sedang dalam pratinjau atau inkubator.
 Java Development Kit (JDK) terbaru menyediakan pembaruan dan peningkatan dengan tujuh Proposal Peningkatan JDK (JEP).
